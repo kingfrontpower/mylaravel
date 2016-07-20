@@ -4,10 +4,16 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/xampp/htdocs/myLaravel/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/myLaravel/.gitignore</file>
+            <file>file:/C:/xampp/htdocs/myLaravel/resources/views/layouts/app.blade.php</file>
             <file>file:/C:/xampp/htdocs/myLaravel/database/migrations/2016_07_20_104722_create_tasks_table.php</file>
+            <file>file:/C:/xampp/htdocs/myLaravel/app/Http/routes.php</file>
             <file>file:/C:/xampp/htdocs/myLaravel/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/myLaravel/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/myLaravel/app/Task.php</file>
             <file>file:/C:/xampp/htdocs/myLaravel/public/index.php</file>
             <file>file:/C:/xampp/htdocs/myLaravel/.env</file>
+            <file>file:/C:/xampp/htdocs/myLaravel/resources/views/tasks.blade.php</file>
         </group>
     </open-files>
 </project-private>
